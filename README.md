@@ -1,3 +1,3 @@
 Jose Carlos Rojas Leon,
-Ingenieria en Siststemas,
+Ingenieria en Sistemas,
 un papel y un mundo por explorar
